@@ -2374,7 +2374,7 @@ textarea.form-input {
         transition: 1s cubic-bezier(0.165, 0.84, 0.44, 1);
         overflow-y: auto;
         transform: translatey(-100%);
-        background-image: url(../images/blog-pattern-bg.png);
+        background-image: url(img/blog-pattern-bg.png);
         background-position: center;
         background-color: var(--body-bg);
     }
